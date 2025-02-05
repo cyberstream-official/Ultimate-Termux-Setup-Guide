@@ -12,3 +12,19 @@ Ready to take your Termux experience to the next level? Let’s dive in!
 ---
 
 ## **Apps:**
+### **Apps Of Termux:**
+- **[Termux](https://f-droid.org/packages/com.termux/)** *(MUST)* 
+- **[Termux:API](https://f-droid.org/packages/com.termux.api/)** *(Highly Recommended)*
+- **[Termux:Boot](https://f-droid.org/packages/com.termux.boot/)**
+- **[Termux:Float](https://f-droid.org/packages/com.termux.window/)** *(Recommended)*
+- **[Termux:Styling](https://f-droid.org/packages/com.termux.styling/)**
+- **[Termux:Tasker](https://f-droid.org/packages/com.termux.tasker/)**
+- **[Termux:Widget](https://f-droid.org/packages/com.termux.widget/)**
+
+---
+
+### **Apps To Increase Productivity:**
+- **[Hacker's Keyboard](https://f-droid.org/packages/org.pocketworkstation.pckeyboard/)** *(Most Highly Recommended)*
+- **[Obsidian](https://play.google.com/store/apps/details?id=md.obsidian)/[Notion](https://play.google.com/store/apps/details?id=notion.id)** (Notes)
+- **[GitHub](https://play.google.com/store/apps/details?id=com.github.android)**
+- **[Zarchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)/[Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)** *(Better File Explorer)*
