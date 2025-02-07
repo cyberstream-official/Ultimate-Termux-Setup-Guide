@@ -11,8 +11,8 @@ Unlock the **full potential** of Termux for **Programming, Ethical Hacking, and 
 ## 📌 **Table of Contents:**
 
 - 📱 **[Apps & Websites](APPS-WEBSITES.md)**  
-- 💻 **[Commands (Setup)](CMD-1.md)**  
-- 🖥️ **[Commands (Interface)](CMD-2.md)**
+- 💻 **[Commands (Setup)](SETUP.md)**  
+- 🖥️ **[Commands (Interface)](INTERFACE.md)**
 
 ---
 
