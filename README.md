@@ -16,7 +16,7 @@ Unlock the **full potential** of Termux for **Programming, Ethical Hacking, and 
 
 ---
 
-## 🔗 **Connect with CyberStream:**
+## 🔗 **Connect with CYBERSTREAM:**
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@cyberstream_official?sub_confirmation=1)  
 [![Discord Server](https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wjaGw98gAE)  
