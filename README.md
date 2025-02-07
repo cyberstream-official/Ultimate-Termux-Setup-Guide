@@ -27,6 +27,6 @@ Unlock the **full potential** of Termux for **Programming, Ethical Hacking, and 
 ---
 
 ### ⚠️ **Disclaimer:**
-==***CYBERSTREAM does NOT endorse or promote any illegal activities. This guide is strictly for educational purposes.***==
+***CYBERSTREAM does NOT endorse or promote any illegal activities. This guide is strictly for educational purposes.***
 
 ---
