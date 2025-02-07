@@ -2,7 +2,7 @@
 
 ### By _**[CYBERSTREAM](https://youtube.com/@cyberstream_official?sub_confirmation=1)**_
 
-**Master Termux Like a Pro!**
+**Master **Termux** Like a Pro!**
 
 Unlock the **full potential** of Termux for **Programming, Ethical Hacking, and advanced customization**, all on a **Non-Rooted Android device**! Whether you're a **beginner** or an **expert**, this **step-by-step guide** will help you set up and optimize Termux effortlessly.
 
